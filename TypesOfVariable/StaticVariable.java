@@ -1,4 +1,6 @@
 
+// Static Variable is also calles Class variable.
+
 public class StaticVariable {
 	
 	  public static String geek = "Vaibhav Rathod";
